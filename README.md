@@ -10,9 +10,7 @@ A simple, effective machine learning application that classifies emails as spam 
 - Visual evaluation (confusion matrix)
 - Human-readable, clean code
 
-## Demo
 
-![Confusion Matrix Visualization](confusion_matrix_example.png)
 
 ## Getting Started
 
