@@ -1,3 +1,10 @@
+## Project Structure
+
+- `src/preprocess.py` — Data loading and cleaning functions
+- `src/train.py` — Main training & evaluation script
+- `data/sample_emails.csv` — Example dataset
+- `requirements.txt` — Dependency list
+
 # Spam Email Classifier
 
 A simple, effective machine learning application that classifies emails as spam or not spam using the Naive Bayes algorithm.
@@ -39,12 +46,7 @@ Replace or expand `data/sample_emails.csv` with your own dataset in the format:
 
 ---
 
-## Project Structure
 
-- `src/preprocess.py` — Data loading and cleaning functions
-- `src/train.py` — Main training & evaluation script
-- `data/sample_emails.csv` — Example dataset
-- `requirements.txt` — Dependency list
 
 ## License
 
